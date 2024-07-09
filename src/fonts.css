@@ -1,0 +1,39 @@
+@font-face {
+	font-family: "Bely Display";
+	src: url(src/fonts/belydisplay/fonnts.com-Bely_Display_W00_Regular.ttf);
+}
+
+@font-face {
+	font-family: "Futura Round";
+	src: url(src/fonts/futuraround/afuturaroundbold.ttf);
+}
+
+@font-face {
+	font-family: "Novel Bold";
+	src: url(src/fonts/novel/novel-mono-pro-bold.otf);
+}
+
+@font-face {
+	font-family: "Novel Ebold";
+	src: url(src/fonts/novel/novel-mono-pro-extrabold.otf);
+}
+
+@font-face {
+	font-family: "Novel Regular";
+	src: url(src/fonts/novel/novel-mono-pro-regular.otf);
+}
+
+@font-face {
+	font-family: "Proxima Nova Regular";
+	src: url(src/fonts/proximanova/proximanova_regular.ttf);
+}
+@font-face {
+	font-family: 'Proxima Nova Bold';
+	src: url('src/fonts/proximanova/proximanova_bold.otf');
+	src: url('src/fonts/proximanova/proximanova_bold.otf?#iefix') format('embedded-opentype'),
+		 url('src/fonts/proximanova/proximanova_bold.otf.woff') format('woff'),
+		 url('src/fonts/proximanova/proximanova_bold.otf.ttf') format('truetype'),
+		 url('src/fonts/proximanova/proximanova_bold.otf.svg#Proxima Nova Bold') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
